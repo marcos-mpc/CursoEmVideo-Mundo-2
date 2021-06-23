@@ -1,3 +1,6 @@
+print(10*'=')
+print('JOKENPO')
+print(10*'=')
 from time import sleep
 from random import randint
 itens = ('pedra', 'papel', 'tesoura')

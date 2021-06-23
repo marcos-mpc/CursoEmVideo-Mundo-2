@@ -1,3 +1,6 @@
+print(10*'-=')
+print('EXAMINADO TRIANGULOS')
+print(10*'-=')
 r1 = float(input('reta 1: '))
 r2 = float(input('reta 2: '))
 r3 = float(input('reta 3: '))
