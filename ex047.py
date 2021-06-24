@@ -1,6 +1,6 @@
 print(10*'\033[92m=-')
 print('\033[94mMOSTRANDO PARES')
 print(10*'\033[92m=-\033[m')
-for c in range (1, 50 +1):
+for c in range(1, 50 + 1):
     if c % 2 == 0:
         print(c, end=' ')

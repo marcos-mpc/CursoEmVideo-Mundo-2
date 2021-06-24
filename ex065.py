@@ -12,7 +12,7 @@ while fim == 'S':
         if n < menor:
             menor = n
     fim = input('digitar outro numero ? S/N ').strip().upper()[0]
-média = acul / cont
+media = acul / cont
 print('''a media dos valores digitados foi {:.2f}
 o maior valor foi {}
-o menor valor foi {}'''.format(média, maior, menor))
+o menor valor foi {}'''.format(media, maior, menor))
